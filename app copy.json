@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Kids Advice",
+    "name": "kids-advice",
     "slug": "kids-advice",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,10 +23,7 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      },
-      "package": "com.awesomeaariv.kidsadvice",
-      "permissions": [],
-      "versionCode": 3
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
